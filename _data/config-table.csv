@@ -1,0 +1,18 @@
+field,display_name
+title,Title
+description,Description
+type,Type
+location,Location
+subject,Subjects
+Provenance,provenance
+repository,Repository
+materials,Materials
+dimensions,Dimensions
+dimensionsCm,Dimensions (cm)
+accessionNumber,Accession Number
+tellalianNumber,Tellalian Number
+donor,Donor
+exhibitionHistory,Exhibition History
+publicationHistory,Publication History
+conservationHistory,Conservation History
+rights,Rights Statement
